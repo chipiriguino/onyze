@@ -7,7 +7,7 @@
 h1{
     color: #B0ADAB;
     font-weight: 300;
-    font-size: 25px;
+    font-size: 20px;
 }
 
 h3{
@@ -22,7 +22,7 @@ p{
 .user-name{
     display: flex;
     flex-direction: row;
-    padding-top: 25px;
+    padding-top: 45px;
     
 }
 
