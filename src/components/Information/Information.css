@@ -1,0 +1,50 @@
+
+.information{
+   margin-left: 70px;
+   margin-top: 30px;
+}
+
+h1{
+    color: #B0ADAB;
+    font-weight: 300;
+    font-size: 25px;
+}
+
+h3{
+    color: #B0ADAB;
+}
+
+p{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.user-name{
+    display: flex;
+    flex-direction: row;
+    padding-top: 25px;
+    
+}
+
+.name{
+    padding-left: 25px;
+}
+
+.grey{
+    color: #B0ADAB;
+    
+}
+
+.profile-img{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+.email{
+    padding-bottom: 6px;
+}
+
+.phone{
+    padding-bottom: 6px; 
+}
