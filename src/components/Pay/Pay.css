@@ -5,7 +5,7 @@
 .hidden{
     display: flex;
     flex-direction: row;
-    padding-left: 290px;
+    padding-left: 410px;
     font-weight: bold;
 }
 
@@ -100,12 +100,16 @@
     flex-wrap: wrap;
 }
 .pay-cards-container .payment-cards.saved, .pay-cards-container .payment-cards.default {
-    flex-basis: 20%;
-    margin-top: 2rem;
+    flex-basis: 27%;
+    margin-top: 3rem;
     margin-right: 1rem;
-    margin-left: 2rem;
+    margin-left: 3rem;
     max-width: 22.5rem;
 }
 .pay-cards-container.first-child {
     margin-left: 0;
+}
+
+.visa{
+  background-color: lightblue;
 }

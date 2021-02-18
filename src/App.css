@@ -5,8 +5,14 @@
   .align-components{
     display: flex;
     flex-direction: row;
+    margin-left: 15rem;
   }
 
   .align-pay{
     margin-left: 50px;
+  }
+
+  .align-infopay{
+    margin-top: 3rem;
+
   }

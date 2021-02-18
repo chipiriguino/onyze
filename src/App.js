@@ -13,7 +13,9 @@ function App() {
       <Pay/>
       </div>
       </div>
+      <div className="align-infopay">
 <InfoPay/>
+</div>
     </div>
   );
 }

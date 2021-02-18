@@ -20,7 +20,7 @@ export default function Pay() {
         <img className="card-image" src="/PayPal.png" alt="paypal" />
   </div>
 
-  <div className="payment-cards saved">
+  <div className="payment-cards saved visa">
         <i className="icon-close"></i>
         <img className="card-image" src="/VISA.png" alt="Visa" />
   </div>
